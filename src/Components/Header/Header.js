@@ -1,7 +1,7 @@
 import './Header.scss'
 import React from 'react'
-import menu from './img/menu.svg'
-import basket from './img/basket.svg'
+import menu from '../../assets/menu.svg'
+import basket from '../../assets/basket.svg'
 
 
 class Header extends React.Component{
