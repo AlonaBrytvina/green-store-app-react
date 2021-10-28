@@ -1,21 +1,8 @@
-$color_1: #FFFFFF;
-$color_2: #43A047;
-
-@mixin font($fs, $fw) {
-    font-size: $fs;
-    font-weight: $fw;
-}
-
-
-@mixin flex($dis, $jst,$al) {
-    display: $dis;
-    justify-content: $jst;
-    align-items: $al;
-}
+@import "src/assets/scss/variables";
 
 .wrapper-header{
     height: 100px;
-    background-color: $color_1;
+    background-color: $color_white;
     box-shadow: 0 0 50px rgba(116, 189, 119, 0.3);
     margin-bottom: 30px;
     @include flex(flex, space-between, center);
@@ -26,8 +13,7 @@ $color_2: #43A047;
 
     &__name {
         @include font(30px, 700);
-        color: $color_2;
-        line-height: 35.55px;
+        color: $color_green;
     }
 
     &__basket {

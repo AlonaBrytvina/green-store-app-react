@@ -27,7 +27,7 @@ function Filters() {
             {items.map(item => (
                 <div
                     key={item.id}
-                    className={item.isActive ? 'filters__item_selected' : 'filters__item'}
+                    className={item.isActive ? 'filters__item filters__item_selected' : 'filters__item'}
                     onClick={() => handleClick(item.id)}
                 >
                     {item.name}
@@ -37,4 +37,5 @@ function Filters() {
     );
 }
 
-export default Filters
+export default Filters;
+
