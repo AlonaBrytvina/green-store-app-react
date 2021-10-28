@@ -1,0 +1,1326 @@
+    {
+    "products": [
+        {
+            "id": 643069,
+            "name": "Оливковое масло Borges Extra Virgin Original, 500 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/a/b/abb0521add66c30c5d0497f596995ed99558e898f383f342818e2a3bec1efe50.jpeg",
+            "price": 19400,
+            "categoryId": 1,
+            "views": 821,
+            "sold": 398
+        },
+        {
+            "id": 692091,
+            "name": "Сахар виноградный для детей от 0мес Декстромед Remedia к/у 500г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/9/2/9227f862a963bbc13ca67f1439e2591ee354f6735b42733a078881efad40fa51.jpeg",
+            "price": 12490,
+            "categoryId": 1,
+            "views": 2473,
+            "sold": 955
+        },
+        {
+            "id": 854481,
+            "name": "Соус барбекю органический Triple Crown Organic BBQ Hickory Bourbon, 250 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/2/b/2b858d95c586991546b2bbbb1b50b20ccd692412657b32d65f35cb88bd848105.jpeg",
+            "price": 11900,
+            "categoryId": 1,
+            "views": 5525,
+            "sold": 998
+        },
+        {
+            "id": 643153,
+            "name": "Оливковое масло Iberica Pomace, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/0/9/094b5f1c15c898699d76fc5db7ddc4a3a0e6f784ed061f870605652e69044771.jpeg",
+            "price": 11500,
+            "categoryId": 1,
+            "views": 1727,
+            "sold": 230
+        },
+        {
+            "id": 677337,
+            "name": "Соус соевый Kikkoman Poke, 250 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/7/8715035450301_31.jpg",
+            "price": 9500,
+            "categoryId": 1,
+            "views": 7260,
+            "sold": 439
+        },
+        {
+            "id": 563771,
+            "name": "Кетчуп томатный Heinz, пластиковая бутылка, 875 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/7/8715700421513_31.jpg",
+            "price": 7850,
+            "categoryId": 1,
+            "views": 9906,
+            "sold": 251
+        },
+        {
+            "id": 656941,
+            "name": "Добавка диетическая MaxxVital для вашей жизненной силы, 30 шт.",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/a/4a6478c7998e1787520b47498025878df2070deab9de7b3675f8e8548013a961.jpeg",
+            "price": 7490,
+            "categoryId": 1,
+            "views": 1291,
+            "sold": 658
+        },
+        {
+            "id": 692098,
+            "name": "Сахар Демерара тростниковый коричневый Ата 500г д/п",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/a/5a34c0b19dd02420db72f3e5d93d2945ae13708cbeef161041d06946ab6d215e.jpeg",
+            "price": 6900,
+            "categoryId": 1,
+            "views": 9024,
+            "sold": 151
+        },
+        {
+            "id": 649854,
+            "name": "Масло рафинированное Стожар подсолнечно-оливковый микс, 850 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/c/9/c9a1c87fb963d238d98188c6e58d2aa72b1bcea99e8303294622dec4634e9e7d.jpeg",
+            "price": 6190,
+            "categoryId": 1,
+            "views": 7361,
+            "sold": 581
+        },
+        {
+            "id": 694464,
+            "name": "Хлопья овсяно-ржаные грубого помола для каш Nordic к/у 600г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/6/4/6411200110224.jpg",
+            "price": 5990,
+            "categoryId": 1,
+            "views": 2369,
+            "sold": 709
+        },
+        {
+            "id": 264010,
+            "name": "Завтрак готовый Nestle Cini-Minis сухой, 450 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/2/0/2019.08.23_auchan_0065_614146.jpg",
+            "price": 5090,
+            "categoryId": 1,
+            "views": 488,
+            "sold": 994
+        },
+        {
+            "id": 264012,
+            "name": "Завтрак готовый Nestle Lion Карамель + шоколад, 450 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/9/5900020031761.jpg",
+            "price": 5090,
+            "categoryId": 1,
+            "views": 1098,
+            "sold": 179
+        },
+        {
+            "id": 264011,
+            "name": "Завтрак сухой Nesquik Alphabet, 460 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/9/5900020020154.jpg",
+            "price": 5090,
+            "categoryId": 1,
+            "views": 3459,
+            "sold": 470
+        },
+        {
+            "id": 264013,
+            "name": "Завтрак сухой Nestle Nesquik Знайомі вам інгредіенти, 460 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/9/5900020031723.jpg",
+            "price": 5090,
+            "categoryId": 1,
+            "views": 5339,
+            "sold": 571
+        },
+        {
+            "id": 683824,
+            "name": "Завтрак сухой с витаминами и минеральными веществами Mix Nesquik м/у 460г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/7/e/7ea04511a4d7df6d70f9cf2c16e4a342f769989b85a366f143b69cba4ae16d1d.jpeg",
+            "price": 5090,
+            "categoryId": 1,
+            "views": 3950,
+            "sold": 287
+        },
+        {
+            "id": 684419,
+            "name": "Каша-минутка овсяная с шоколадом и клубникой Nordic к/у 6*35г/уп",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/6/8/682838.jpg",
+            "price": 4990,
+            "categoryId": 1,
+            "views": 5282,
+            "sold": 967
+        },
+        {
+            "id": 684426,
+            "name": "Каша-минутка овсяная с шоколадом и малиной Nordic к/у 6*35г/уп",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/2/5/25f2627a3faaf1b52971ccc302f72cc0f0de52fd089be59ba7259e5a4d22424e.jpeg",
+            "price": 4990,
+            "categoryId": 1,
+            "views": 8912,
+            "sold": 637
+        },
+        {
+            "id": 656983,
+            "name": "Добавка диетическая MaxxVita для вашей печени, 30 шт.",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/5/4590d30343c152c4193a30deae7bd9d0849375b012fcdda1a7c763cedf3bbd27.jpeg",
+            "price": 4790,
+            "categoryId": 1,
+            "views": 3958,
+            "sold": 552
+        },
+        {
+            "id": 246631,
+            "name": "Кетчуп томатный Heinz, 570 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/0/40668.jpg",
+            "price": 4590,
+            "categoryId": 1,
+            "views": 5241,
+            "sold": 566
+        },
+        {
+            "id": 890087,
+            "name": "Фисташки соленые Boom Nut, 75 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820005196289_5.jpg",
+            "price": 4390,
+            "categoryId": 1,
+            "views": 1121,
+            "sold": 402
+        },
+        {
+            "id": 683418,
+            "name": "Гранола Мед и кокос Dr.Benner м/у 250г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/1/f/1f873e24896ca92271d988bb85523e78edc2c4db1fd6f6fa40c73f71283a9b45.jpeg",
+            "price": 3990,
+            "categoryId": 1,
+            "views": 6342,
+            "sold": 520
+        },
+        {
+            "id": 215748,
+            "name": "Хлопья овсяные Nordic (600 г)",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/1/511832.jpg",
+            "price": 3990,
+            "categoryId": 1,
+            "views": 1050,
+            "sold": 289
+        },
+        {
+            "id": 527714,
+            "name": "Макароны из кукурузной и рисовой муки Lori, 340 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/0/8020340020034_0.jpg",
+            "price": 3990,
+            "categoryId": 1,
+            "views": 7189,
+            "sold": 377
+        },
+        {
+            "id": 639912,
+            "name": "Макароны Lori из кукурузы и риса, 340 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/7/a/7a8c298498a74a787bb00d3f2ba2e0cee9c512100c49defd736c3508c23b24c9.jpeg",
+            "price": 3990,
+            "categoryId": 1,
+            "views": 1453,
+            "sold": 767
+        },
+        {
+            "id": 720797,
+            "name": "Шоколадные конфеты пасхальные Hamlet Яйца с нугой, 126 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/c/3c4597cfb13591186fef0de4e8f296afcce7889117b1e6edaf2bcd6fa7bf9347.jpeg",
+            "price": 15900,
+            "categoryId": 2,
+            "views": 2616,
+            "sold": 453
+        },
+        {
+            "id": 539135,
+            "name": "Конфеты Raffaello, 230 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/0/8000500290088_11.jpg",
+            "price": 13990,
+            "categoryId": 2,
+            "views": 312,
+            "sold": 508
+        },
+        {
+            "id": 889987,
+            "name": "Конфеты шоколадные Світоч Exclusive, 421 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823000920491_5.jpg",
+            "price": 11300,
+            "categoryId": 2,
+            "views": 6492,
+            "sold": 423
+        },
+        {
+            "id": 606082,
+            "name": "Конфеты-ассорти Roshen Chocolateria, 194 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823077624285_37.jpg",
+            "price": 10590,
+            "categoryId": 2,
+            "views": 7964,
+            "sold": 840
+        },
+        {
+            "id": 240606,
+            "name": "Паста Nutella Шоколадная, 350 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/0/80177173.jpg",
+            "price": 9990,
+            "categoryId": 2,
+            "views": 3056,
+            "sold": 160
+        },
+        {
+            "id": 709963,
+            "name": "Птичье молоко Pomorzanka Super Mleczko, 380 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/9/5900847002685_26.jpg",
+            "price": 9990,
+            "categoryId": 2,
+            "views": 2748,
+            "sold": 998
+        },
+        {
+            "id": 889994,
+            "name": "Конфеты шоколадные Millennium Elegance Classic, 285 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820075500856_6.jpg",
+            "price": 9750,
+            "categoryId": 2,
+            "views": 9268,
+            "sold": 519
+        },
+        {
+            "id": 606026,
+            "name": "Конфеты-ассорти Світоч Exclusive, 222 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823000920545_30.jpg",
+            "price": 8990,
+            "categoryId": 2,
+            "views": 6634,
+            "sold": 134
+        },
+        {
+            "id": 700005,
+            "name": "Трюфели Chocolate Inspiration С малиной и игристым сахаром, 200 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/4/3481290027002_3.jpg",
+            "price": 7890,
+            "categoryId": 2,
+            "views": 2495,
+            "sold": 960
+        },
+        {
+            "id": 606047,
+            "name": "Конфеты Ferrero Roche, 100 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/0/8000500192801_33.jpg",
+            "price": 7790,
+            "categoryId": 2,
+            "views": 636,
+            "sold": 956
+        },
+        {
+            "id": 539121,
+            "name": "Конфеты ассорти Millennium Truff, 180 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820075508692_9.jpg",
+            "price": 7590,
+            "categoryId": 2,
+            "views": 9441,
+            "sold": 831
+        },
+        {
+            "id": 889980,
+            "name": "Набор конфет Yaro Old school peanut, 72 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820230430851_4.jpg",
+            "price": 7590,
+            "categoryId": 2,
+            "views": 4147,
+            "sold": 363
+        },
+        {
+            "id": 860339,
+            "name": "Шоколад молочный Milka Max Choco Wafer, 300 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/4/8410172905355_12.jpg",
+            "price": 6990,
+            "categoryId": 2,
+            "views": 7399,
+            "sold": 986
+        },
+        {
+            "id": 605970,
+            "name": "Конфеты-ассорти Roshen Compliment, 145 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823077625879_22.jpg",
+            "price": 6190,
+            "categoryId": 2,
+            "views": 9006,
+            "sold": 45
+        },
+        {
+            "id": 856716,
+            "name": "Конфеты пралиновые с шоколадом и сезамом Roshen Mont Blanc, 177 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823077633003_1.jpg",
+            "price": 6190,
+            "categoryId": 2,
+            "views": 8144,
+            "sold": 107
+        },
+        {
+            "id": 856723,
+            "name": "Конфеты шоколадные с цельным лесным орехом Roshen Mont Blanc, 177 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823077632983_2.jpg",
+            "price": 6190,
+            "categoryId": 2,
+            "views": 8698,
+            "sold": 360
+        },
+        {
+            "id": 274072,
+            "name": "Шоколад Auchan молочный с миндалем, изюмом и фундуком, 180 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/2/3245678047026_51.jpg",
+            "price": 6190,
+            "categoryId": 2,
+            "views": 9677,
+            "sold": 619
+        },
+        {
+            "id": 609364,
+            "name": "Конфеты-грильяж Бісквіт-Шоколад, 270 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820026675497.jpg",
+            "price": 5990,
+            "categoryId": 2,
+            "views": 1455,
+            "sold": 851
+        },
+        {
+            "id": 710124,
+            "name": "Конфеты трюфельные Cornellis с апельсином, 175 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/9/5902510401535_48.jpg",
+            "price": 5990,
+            "categoryId": 2,
+            "views": 3461,
+            "sold": 685
+        },
+        {
+            "id": 710117,
+            "name": "Конфеты трюфельные Cornellis с какао, 175 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/9/5902510401511_47.jpg",
+            "price": 5990,
+            "categoryId": 2,
+            "views": 9816,
+            "sold": 14
+        },
+        {
+            "id": 722421,
+            "name": "Паста кондитерская Spell Карамель с голубыми сырами, 250 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/8/388820a77cb37dd4f4198746f4266d8d3b6bf2933973fb0a725e7242c12e2524.jpeg",
+            "price": 5990,
+            "categoryId": 2,
+            "views": 2275,
+            "sold": 591
+        },
+        {
+            "id": 889973,
+            "name": "Конфеты Yaro Coco bar, 72 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820230431414_3.jpg",
+            "price": 5590,
+            "categoryId": 2,
+            "views": 8958,
+            "sold": 183
+        },
+        {
+            "id": 889966,
+            "name": "Набор конфет Yaro Соленая Карамель, 72 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820230430875_2.jpg",
+            "price": 5590,
+            "categoryId": 2,
+            "views": 2374,
+            "sold": 389
+        },
+        {
+            "id": 725698,
+            "name": "Паста Chocolato Creamy с шоколадным вкусом, 400 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820209660012_16.jpg",
+            "price": 5490,
+            "categoryId": 2,
+            "views": 1851,
+            "sold": 466
+        },
+        {
+            "id": 854939,
+            "name": "Молоко органическое растительное Ecomil Кокосово-миндальное, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/6/b/6b2e40561325abc1f47dbadf173bc9999fb23a138d1fc7412c6714a52acc290c.jpeg",
+            "price": 9690,
+            "categoryId": 3,
+            "views": 3450,
+            "sold": 153
+        },
+        {
+            "id": 854911,
+            "name": "Молоко органическое растительное Ecomil Миндальное, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/6/863a1b31c568f39ed69bca88ec7032da1dadd10abd86532e30542652de44c080.jpeg",
+            "price": 9390,
+            "categoryId": 3,
+            "views": 2642,
+            "sold": 6
+        },
+        {
+            "id": 536837,
+            "name": "Молоко растительное Ecomil Миндаль, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/4/8428532230245_35.jpg",
+            "price": 9390,
+            "categoryId": 3,
+            "views": 24,
+            "sold": 806
+        },
+        {
+            "id": 525595,
+            "name": "Органическое растительное молоко Ecomil Миндальное с семенами чиа, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/4/8428532192406_64.jpg",
+            "price": 9390,
+            "categoryId": 3,
+            "views": 9888,
+            "sold": 737
+        },
+        {
+            "id": 240601,
+            "name": "Органическое растительное кокосовое молоко EcoMil С миндалём без сахара, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/9/0/900bfb90151c99ec69b5ee0a469362c2f8e4f1cb0d8b2f4f4a174e14ad0beecf.jpeg",
+            "price": 9090,
+            "categoryId": 3,
+            "views": 7584,
+            "sold": 336
+        },
+        {
+            "id": 854932,
+            "name": "Молоко органическое растительное Ecomil Конопляное, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/c/8cd0d8ecca47e41ec9697591500699d17459daf6bf53e8d39756d7fcfcdbec3b.jpeg",
+            "price": 8690,
+            "categoryId": 3,
+            "views": 4689,
+            "sold": 621
+        },
+        {
+            "id": 854897,
+            "name": "Молоко органическое растительное NaturGreen Рисовое, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/b/6/b6f7e01f1aa02f04905d78edad2fc222ed34a4ff9f7763a305d5fe577093db17.jpeg",
+            "price": 8290,
+            "categoryId": 3,
+            "views": 3976,
+            "sold": 123
+        },
+        {
+            "id": 854953,
+            "name": "Молоко органическое растительное Ecomil из овса Бариста, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/b/f/bf65dc5e638a3001649974821d112f776cd2598ffd2bc67d54839852f67d6f53.jpeg",
+            "price": 6990,
+            "categoryId": 3,
+            "views": 9388,
+            "sold": 775
+        },
+        {
+            "id": 854946,
+            "name": "Молоко органическое растительное Ecomil из овса, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/e/8e5b6a5192739ac35e60d3eeb2df11f004d3e03daf352cca34ba597e3d28d5b9.jpeg",
+            "price": 6790,
+            "categoryId": 3,
+            "views": 9434,
+            "sold": 999
+        },
+        {
+            "id": 854918,
+            "name": "Молоко органическое растительное Ecomil Миндальное классическое, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/a/c/ac882ed32848a7b8079aaada7d61d3aa816114a95ca7e9ab5a41f6e51d1d96ce.jpeg",
+            "price": 6490,
+            "categoryId": 3,
+            "views": 3495,
+            "sold": 309
+        },
+        {
+            "id": 854925,
+            "name": "Молоко органическое растительное NaturGreen Соевое с сиропом агавы, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/2/8/28df073e848f444d32160cc3d4b07d1515c1e0885ac0911ac52f090cb0428307.jpeg",
+            "price": 6190,
+            "categoryId": 3,
+            "views": 1386,
+            "sold": 826
+        },
+        {
+            "id": 854904,
+            "name": "Молоко органическое растительное NaturGreen Соевое, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/c/1/c1173f14dcbb1286b493ca94b714fb6c1151c644c4976b23ee4440fd369acafd.jpeg",
+            "price": 5990,
+            "categoryId": 3,
+            "views": 1468,
+            "sold": 159
+        },
+        {
+            "id": 871036,
+            "name": "Сливки растительные Ecomil из кокоса, 200 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/8/3890f9fad2e3ff686fb17bb0850ff10a451351e27bd83180ad67cd794660c05e.jpeg",
+            "price": 5190,
+            "categoryId": 3,
+            "views": 7922,
+            "sold": 729
+        },
+        {
+            "id": 525469,
+            "name": "Сливки органические растительные Ecomil из миндаля, 200 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/4/8428532230047_46.jpg",
+            "price": 4690,
+            "categoryId": 3,
+            "views": 9278,
+            "sold": 732
+        },
+        {
+            "id": 557355,
+            "name": "Кокосовая вода King Island, 500 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8850813300048_17.jpg",
+            "price": 5550,
+            "categoryId": 3,
+            "views": 3527,
+            "sold": 761
+        },
+        {
+            "id": 557439,
+            "name": "Кокосовое молоко Kara, 17%, 425 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8886303223016_29.jpg",
+            "price": 8550,
+            "categoryId": 3,
+            "views": 6922,
+            "sold": 658
+        },
+        {
+            "id": 557327,
+            "name": "Кокосовое молоко Luck Siam Ната де Коко, 290 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8859022402987_13.jpg",
+            "price": 3990,
+            "categoryId": 3,
+            "views": 9402,
+            "sold": 829
+        },
+        {
+            "id": 557334,
+            "name": "Кокосовое молоко Luck Siam Ната де Коко Шоколад, 290 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8859022406152_14.jpg",
+            "price": 4626,
+            "categoryId": 3,
+            "views": 4323,
+            "sold": 849
+        },
+        {
+            "id": 676029,
+            "name": "Кокосовое молоко Oriental Chef 400 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8850161155079_344.jpg",
+            "price": 6263,
+            "categoryId": 3,
+            "views": 6647,
+            "sold": 940
+        },
+        {
+            "id": 640834,
+            "name": "Молочный коктейль Буренка Клубника, 2%, 750 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/e/8/e8f320f56292c82473f370d2f58d17d90e893a53c1dfac913b119ea6bd332b07.jpeg",
+            "price": 4561,
+            "categoryId": 3,
+            "views": 7959,
+            "sold": 906
+        },
+        {
+            "id": 553370,
+            "name": "Молоко кокосовое Chaokoh, TCC 17%, 250 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8850367992997.jpg",
+            "price": 4898,
+            "categoryId": 3,
+            "views": 9659,
+            "sold": 68
+        },
+        {
+            "id": 710617,
+            "name": "Молоко кокосовое Tropic Life, 17-19%, 425 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/0/5060235659287_23.jpg",
+            "price": 8369,
+            "categoryId": 3,
+            "views": 8549,
+            "sold": 249
+        },
+        {
+            "id": 710624,
+            "name": "Молоко кокосовое Tropic Life, 7-9%, 425 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/0/5060235659270_24.jpg",
+            "price": 6611,
+            "categoryId": 3,
+            "views": 9981,
+            "sold": 203
+        },
+        {
+            "id": 687583,
+            "name": "Молоко сгущенное 7.5% с сахаром и какао Заречье д/п 270г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/9/c/9c406f10b1ff27c1657cf9b47a5c5ba2a4bd7bc9250be0339112423caeef358b.jpeg",
+            "price": 3126,
+            "categoryId": 3,
+            "views": 3845,
+            "sold": 642
+        },
+        {
+            "id": 646867,
+            "name": "ВОДА КОКОС KARA С РОЖ.ГУАВА 1000 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/9/b/9b62f98321bdbbf5554829976b61236aee4379e910889241592c35a9376e15e5.jpeg",
+            "price": 8990,
+            "categoryId": 4,
+            "views": 5162,
+            "sold": 855
+        },
+        {
+            "id": 646860,
+            "name": "Вода кокосовая KARA С МАНГО 1000 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/e/5e94c8aec36ce64a17c70a62cd08de7a7484c1d67713e346abd76bdbb8a1522d.jpeg",
+            "price": 8990,
+            "categoryId": 4,
+            "views": 2394,
+            "sold": 907
+        },
+        {
+            "id": 557467,
+            "name": "Сок гуава с виноградом CHABAA, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8854761350117_32.jpg",
+            "price": 8450,
+            "categoryId": 4,
+            "views": 3960,
+            "sold": 847
+        },
+        {
+            "id": 557474,
+            "name": "Сок личи с виноградом CHABAA, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8854761150113.jpg",
+            "price": 8450,
+            "categoryId": 4,
+            "views": 6247,
+            "sold": 871
+        },
+        {
+            "id": 557460,
+            "name": "Сок помело CHABAA, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/8/8854761060115_31.jpg",
+            "price": 8450,
+            "categoryId": 4,
+            "views": 2190,
+            "sold": 927
+        },
+        {
+            "id": 646874,
+            "name": "Вода кокосовая KARA 500МЛ",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/2/3/2304f2cf6722b71b32d8af8337b893a7c4f868a99b0e47a0b676338530e5eff6.jpeg",
+            "price": 4990,
+            "categoryId": 4,
+            "views": 4678,
+            "sold": 666
+        },
+        {
+            "id": 692966,
+            "name": "Сок яблочно-морковный неосветленный ПрямоСік т/п 1л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/c/4/c4d99f54ea0cf1dbdfa7a4b2eeb300dca863f8e29ef61d762f9d0eb058a290b3.jpeg",
+            "price": 3400,
+            "categoryId": 4,
+            "views": 1339,
+            "sold": 114
+        },
+        {
+            "id": 693001,
+            "name": "Сок яблочный неосветленный ПрямоСік т/п 0.95л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/d/e/deed90598f74beba6e70ff3de652563ad2ca5d41277570d6fd327c5a1b0397a6.jpeg",
+            "price": 3400,
+            "categoryId": 4,
+            "views": 3832,
+            "sold": 461
+        },
+        {
+            "id": 692742,
+            "name": "Сок мультифруктовый неосветленный ПрямоСік т/п 1л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/0/b/0b92e3e5ee5e4fec069f4cf547e744ec86e54d11bb5006f2c78cb3a7f4e7f408.jpeg",
+            "price": 3400,
+            "categoryId": 4,
+            "views": 4266,
+            "sold": 536
+        },
+        {
+            "id": 735458,
+            "name": "Сок Прямосік Яблоко-груша, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/d/5/d539fee1caced116c8d2655e4572b7690e2095b6a02e69cf783bfd58dbb66b1d.jpeg",
+            "price": 3400,
+            "categoryId": 4,
+            "views": 1067,
+            "sold": 738
+        },
+        {
+            "id": 526515,
+            "name": "Нектар яблочный Кожен День, 1,9 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823090114947_27.jpg",
+            "price": 2900,
+            "categoryId": 4,
+            "views": 8745,
+            "sold": 820
+        },
+        {
+            "id": 273550,
+            "name": "Нектар Кожен День Вишневый, 1,9 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823090114930_103.jpg",
+            "price": 2900,
+            "categoryId": 4,
+            "views": 4408,
+            "sold": 139
+        },
+        {
+            "id": 689249,
+            "name": "Нектар апельсиново-грейпфрутовый неосветленный Jaffa т/п 1л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/d/4d2dead41b0c9bbdd7315737ab6faeb03466bdbf15eefb59d45ad027cbad1dd3.jpeg",
+            "price": 2790,
+            "categoryId": 4,
+            "views": 1875,
+            "sold": 544
+        },
+        {
+            "id": 689466,
+            "name": "Нектар мультифруктовый неосветленный Jaffa т/п 1л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/d/b/db7c15bbf5abccaea7cf1bbf16b9d713ed31908bc3afc65d7390fb4be898b649.jpeg",
+            "price": 2790,
+            "categoryId": 4,
+            "views": 2768,
+            "sold": 983
+        },
+        {
+            "id": 692441,
+            "name": "Смузи с лесными ягодами пастеризованный Jaffa т/п 0.95л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/6/c/6c851118d693e46ea6e1233b8ceab828cee0c27c1f3fb600754f4ee3115a6360.jpeg",
+            "price": 2790,
+            "categoryId": 4,
+            "views": 9716,
+            "sold": 198
+        },
+        {
+            "id": 692455,
+            "name": "Смузи с тропическими фруктами стерилизованный Jaffa т/п 0.95л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/6/b/6b2e88a903ac8f414f20cfc51adf2a55e9e90f85766d57773589b656466ff8c2.jpeg",
+            "price": 2790,
+            "categoryId": 4,
+            "views": 211,
+            "sold": 127
+        },
+        {
+            "id": 725803,
+            "name": "Вода негазированная Vittel, 750 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/1/3179732338648_31.jpg",
+            "price": 2600,
+            "categoryId": 4,
+            "views": 5823,
+            "sold": 553
+        },
+        {
+            "id": 689186,
+            "name": "Напиток энергетический безалкогольный сильногазированный Tropical The Yellow Edition Red Bull ж/б 250мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/c/e/ce8775d2fe0e37d7671991c13138194b1fac73ca6c4f141019711829d7f4b4f9.jpeg",
+            "price": 2500,
+            "categoryId": 4,
+            "views": 7862,
+            "sold": 782
+        },
+        {
+            "id": 735486,
+            "name": "Напиток энергетический Red Bull безалкогольный Sugarfree, 250 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/b/3/b3afc959d4218bba262b15166cddadb5e2ecf8b8fa53a279730305ee35e9e943.jpeg",
+            "price": 2500,
+            "categoryId": 4,
+            "views": 1208,
+            "sold": 858
+        },
+        {
+            "id": 735493,
+            "name": "Напиток энергетический RedBull Coconut twist The summer edition, 250 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/b/9/b9c84e16dc3b5217511ed8d62e633789c2844b6ed1bffe31ccc80ffa5bf6088d.jpeg",
+            "price": 2500,
+            "categoryId": 4,
+            "views": 4166,
+            "sold": 824
+        },
+        {
+            "id": 725789,
+            "name": "Вода негазированная Vittel, 500 мл",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/0/3048431062690_29.jpg",
+            "price": 2090,
+            "categoryId": 4,
+            "views": 3692,
+            "sold": 927
+        },
+        {
+            "id": 735549,
+            "name": "Нектар осветленный Сочный Яблоко-белый виноград, 1 л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/1/d/1d3426bac531fa81a0a643afedb6d90ca75c8d9a4968dfdb73f705f7b19d7fa5.jpeg",
+            "price": 2000,
+            "categoryId": 4,
+            "views": 2456,
+            "sold": 128
+        },
+        {
+            "id": 682242,
+            "name": "Вода Лимон Живчик Оболонь 2л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/a/b/ab4ba3071bdc990c87883c05de6630d7a02db0c74cacdc0c52b1cea2895273cf.jpeg",
+            "price": 1850,
+            "categoryId": 4,
+            "views": 4375,
+            "sold": 594
+        },
+        {
+            "id": 682319,
+            "name": "Вода минеральная негазированная Vittel п/бут 0.33л",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/b/0/b040c1152ff6327d26b0bc954c28c8b61cd931b6e7e904573a169b92ae2d4b0e.jpeg",
+            "price": 1750,
+            "categoryId": 4,
+            "views": 6990,
+            "sold": 315
+        },
+        {
+            "id": 856256,
+            "name": "Чернослив Караван Ласощів, 400 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/0/9/096c204fb50294237cd33cf120f5e62cee6f8883cf1936d3ff821f15a728a359.jpeg",
+            "price": 6950,
+            "categoryId": 5,
+            "views": 3276,
+            "sold": 131
+        },
+        {
+            "id": 273888,
+            "name": "Ягоды годжи Auchan, 150 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/4/8435177058066_12.jpg",
+            "price": 5950,
+            "categoryId": 5,
+            "views": 3208,
+            "sold": 217
+        },
+        {
+            "id": 856277,
+            "name": "Чернослив Almond, 210 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/c/3/c3a41dbce5c861d63e2439bf8e26cf1d1720d167125ed527a261e35fc8c3d22d.jpeg",
+            "price": 3950,
+            "categoryId": 5,
+            "views": 8086,
+            "sold": 487
+        },
+        {
+            "id": 856571,
+            "name": "Фисташки Кондор соленые жареные, 200 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/e/8/e8f61bd9d501c6332384740aef326a649b933be4342fb0906a46a69539d819b0.jpeg",
+            "price": 3950,
+            "categoryId": 5,
+            "views": 2953,
+            "sold": 334
+        },
+        {
+            "id": 856599,
+            "name": "Грецкий орех Almond, 75 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/a/9/a9c6ef39354bd567c2ca9de48ba845beea977963d240a0e8e699c1696a5f7c68.jpeg",
+            "price": 3690,
+            "categoryId": 5,
+            "views": 9812,
+            "sold": 76
+        },
+        {
+            "id": 647616,
+            "name": "Дыня сушеная Канталупа Winway д/п 100г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/3/433865d64b95a67f59c8103c7eebe2dd9652065c072c3b382337fdceefc551db.jpeg",
+            "price": 3090,
+            "categoryId": 5,
+            "views": 9549,
+            "sold": 888
+        },
+        {
+            "id": 856445,
+            "name": "Смесь фруктовая Караван Ласощів Восточная, 180 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/b/3/b38d15e3fd4436b7b5a619651da244d39c6978203458e4cd8e90667bf566d072.jpeg",
+            "price": 1950,
+            "categoryId": 5,
+            "views": 4218,
+            "sold": 703
+        },
+        {
+            "id": 647854,
+            "name": "Изюм Almond Джагланс, 75 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/6/2/62f1068d2c3f3bfd9268ce72dced3860a4423b9a4144405973c468a4a0cb0e57.jpeg",
+            "price": 1390,
+            "categoryId": 5,
+            "views": 389,
+            "sold": 152
+        },
+        {
+            "id": 856354,
+            "name": "Изюм светлый Кондор, 100 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/d/8/d838cc472ae07452f3cbda776ce619425d24b62f49098e7c30317e0ef5e203f3.jpeg",
+            "price": 590,
+            "categoryId": 5,
+            "views": 9552,
+            "sold": 521
+        },
+        {
+            "id": 647861,
+            "name": "Абрикос Almond Джагланс сушеный, 75 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/e/5/e5bcbd74335307fb895b9430c080305f77f35ae7e07895cd406aa422bd608eaf.jpeg",
+            "price": 3882,
+            "categoryId": 5,
+            "views": 3324,
+            "sold": 62
+        },
+        {
+            "id": 647910,
+            "name": "Абрикос сушеный 180г Караван Лакомства.",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/a/8/a83f5a37eb48285c192bae041aeef48b0f90dd12a09c9f6b0225637a06e67bea.jpeg",
+            "price": 6391,
+            "categoryId": 5,
+            "views": 3,
+            "sold": 763
+        },
+        {
+            "id": 272077,
+            "name": "Абрикос сушеный Auchan, 150 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823090107123_4.jpg",
+            "price": 1989,
+            "categoryId": 5,
+            "views": 4899,
+            "sold": 985
+        },
+        {
+            "id": 273900,
+            "name": "Абрикос сушеный Auchan, 200 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823090105280_24.jpg",
+            "price": 5500,
+            "categoryId": 5,
+            "views": 2296,
+            "sold": 445
+        },
+        {
+            "id": 856172,
+            "name": "Ананас Almond кубиками микс, 75 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/e/e/ee5cf24e823b58cb34c51414d2cba7c4c7432d4da12b1b9ae6542061e2a80f1d.jpeg",
+            "price": 1963,
+            "categoryId": 5,
+            "views": 4,
+            "sold": 351
+        },
+        {
+            "id": 856466,
+            "name": "Ананас сушеный Караван Ласощів, 180 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/1/8/1820ace9334efd4041fa600209d0a0e5c65937c6818870f34e29b100a53acd9f.jpeg",
+            "price": 4850,
+            "categoryId": 5,
+            "views": 6491,
+            "sold": 676
+        },
+        {
+            "id": 856564,
+            "name": "Арахис Кондор неочищенный, 500 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/0/5/05fd66c3c08516f2901cd85af80d1dc618e06c5a140aa0e10946ccbd0ced0976.jpeg",
+            "price": 6200,
+            "categoryId": 5,
+            "views": 4390,
+            "sold": 379
+        },
+        {
+            "id": 856557,
+            "name": "Арахис Кондор сырой, 150 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820025761016.png",
+            "price": 1880,
+            "categoryId": 5,
+            "views": 1825,
+            "sold": 331
+        },
+        {
+            "id": 856543,
+            "name": "Арахис жареный Auchan в скорлупе, 240 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/f/7/f7d8bd9496fb243c6d02318bd930a5a03468ec33f8272f646dfc549abf2775b3.jpeg",
+            "price": 2250,
+            "categoryId": 5,
+            "views": 8053,
+            "sold": 213
+        },
+        {
+            "id": 856501,
+            "name": "Арахис жареный Караван Ласощів с кунжутом, 150 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/d/f/dfb41e224b7e1b8e2a71aab23efcbd6193c647705eb1b8d6012e1c53cbbc3dc0.jpeg",
+            "price": 3531,
+            "categoryId": 5,
+            "views": 7670,
+            "sold": 803
+        },
+        {
+            "id": 856508,
+            "name": "Арахис жареный Кондор, 100 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/e/4/e4b9a10e2c46b6f34799908b4f399af7b4024a45fd36ae2e83ac0191bea3035b.jpeg",
+            "price": 1688,
+            "categoryId": 5,
+            "views": 2896,
+            "sold": 598
+        },
+        {
+            "id": 856515,
+            "name": "Арахис жареный Кондор, 200 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/c/3/c31d359e14fd0b06193cf4251e7fc3152c277e067abcdd89cd7b39db59f3626a.jpeg",
+            "price": 3263.0000000000005,
+            "categoryId": 5,
+            "views": 4001,
+            "sold": 986
+        },
+        {
+            "id": 272072,
+            "name": "Арахис жареный Кожен День, 150 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4823090105785.jpg",
+            "price": 1390,
+            "categoryId": 5,
+            "views": 3572,
+            "sold": 763
+        },
+        {
+            "id": 735339,
+            "name": "Арахис жареный соленый Кондор Promo Marka, 100 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/2/32307.jpg",
+            "price": 2152,
+            "categoryId": 5,
+            "views": 5971,
+            "sold": 508
+        },
+        {
+            "id": 735346,
+            "name": "Арахис жареный соленый Promo Marka, 200 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/3/2/32307111.jpg",
+            "price": 2450,
+            "categoryId": 5,
+            "views": 2545,
+            "sold": 446
+        },
+        {
+            "id": 724347,
+            "name": "Кофе натуральный в зернах L'or Classique Сrema Absolu, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/7/6/763398_7.jpg",
+            "price": 39990,
+            "categoryId": 6,
+            "views": 4836,
+            "sold": 403
+        },
+        {
+            "id": 724354,
+            "name": "Кофе натуральный в зернах L'or Espresso Forza, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/7/6/763399_8.jpg",
+            "price": 39990,
+            "categoryId": 6,
+            "views": 9958,
+            "sold": 351
+        },
+        {
+            "id": 495338,
+            "name": "Кофе в зернах Caffe Tomasso Superior, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/6/5601487201499_4.jpg",
+            "price": 39990,
+            "categoryId": 6,
+            "views": 4479,
+            "sold": 885
+        },
+        {
+            "id": 495378,
+            "name": "Кофе в зернах Lavazza Crema&Gusto, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/0/8000070038271_12.jpg",
+            "price": 39990,
+            "categoryId": 6,
+            "views": 4554,
+            "sold": 931
+        },
+        {
+            "id": 495353,
+            "name": "Кофе в зернах Dallmayr Crema d'Oro, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/0/4008167152729_7.jpg",
+            "price": 37990,
+            "categoryId": 6,
+            "views": 6363,
+            "sold": 315
+        },
+        {
+            "id": 495373,
+            "name": "Кофе в зернах Dallmayr Crema Prodomo, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/0/4008167055105_11.jpg",
+            "price": 37990,
+            "categoryId": 6,
+            "views": 7202,
+            "sold": 962
+        },
+        {
+            "id": 495383,
+            "name": "Кофе в зернах Jacobs Barista Edition Crema, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/7/8711000895849_13.jpg",
+            "price": 35990,
+            "categoryId": 6,
+            "views": 1269,
+            "sold": 655
+        },
+        {
+            "id": 495343,
+            "name": "Кофе в зернах Jacobs Barista Edition Crema Italiano, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/7/8711000856000_5.jpg",
+            "price": 35990,
+            "categoryId": 6,
+            "views": 3997,
+            "sold": 119
+        },
+        {
+            "id": 495348,
+            "name": "Кофе в зернах Jacobs  Barista Edition Espresso, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/7/8711000895788_6.jpg",
+            "price": 35990,
+            "categoryId": 6,
+            "views": 9342,
+            "sold": 751
+        },
+        {
+            "id": 495358,
+            "name": "Кофе в зернах Julius Meinl Grande Espresso, 500 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/9/0/9000403800468_8.jpg",
+            "price": 33300,
+            "categoryId": 6,
+            "views": 5858,
+            "sold": 559
+        },
+        {
+            "id": 493223,
+            "name": "Кофе в зернах Macchiato Espresso, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820217870038_43.jpg",
+            "price": 30900,
+            "categoryId": 6,
+            "views": 7016,
+            "sold": 874
+        },
+        {
+            "id": 493258,
+            "name": "Кофе в зернах Gemini Сrema, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820156430966_50.jpg",
+            "price": 29989,
+            "categoryId": 6,
+            "views": 5971,
+            "sold": 6
+        },
+        {
+            "id": 493203,
+            "name": "Кофе в зернах Macchiato Forte , 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820217870052_39.jpg",
+            "price": 28989,
+            "categoryId": 6,
+            "views": 6430,
+            "sold": 622
+        },
+        {
+            "id": 493308,
+            "name": "Кофе в зернах Pera Gran Gusto, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/8/0/8001475009613_60.jpg",
+            "price": 27989,
+            "categoryId": 6,
+            "views": 4121,
+            "sold": 812
+        },
+        {
+            "id": 493328,
+            "name": "Кофе в зернах Julius Meinl Prasident, 500 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/9/0/9000400003077_64.jpg",
+            "price": 27500,
+            "categoryId": 6,
+            "views": 6345,
+            "sold": 224
+        },
+        {
+            "id": 493253,
+            "name": "Кофе в зернах Кава зі Львова Эспрессо, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820145620514_49.jpg",
+            "price": 27189,
+            "categoryId": 6,
+            "views": 3896,
+            "sold": 828
+        },
+        {
+            "id": 493313,
+            "name": "Кофе в зернах Caffe' Tomasso Forte, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/5/6/5601487202106_61.jpg",
+            "price": 25989,
+            "categoryId": 6,
+            "views": 6652,
+            "sold": 623
+        },
+        {
+            "id": 493278,
+            "name": "Кофе в зернах Ferarra Blu Espresso, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820198874100_54.jpg",
+            "price": 25989,
+            "categoryId": 6,
+            "views": 6952,
+            "sold": 568
+        },
+        {
+            "id": 493288,
+            "name": "Кофе в зернах Ferarra Crema Irlandese, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820198875183_56.jpg",
+            "price": 25989,
+            "categoryId": 6,
+            "views": 5923,
+            "sold": 525
+        },
+        {
+            "id": 493293,
+            "name": "Кофе в зернах Ferarra Cuba Libre, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820198875169_57.jpg",
+            "price": 25989,
+            "categoryId": 6,
+            "views": 3540,
+            "sold": 653
+        },
+        {
+            "id": 274189,
+            "name": "Кофе зерновой Ferarra Caffe Арабика, 1 кг",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/4/8/4820097817673_28.jpg",
+            "price": 25989,
+            "categoryId": 6,
+            "views": 3906,
+            "sold": 29
+        },
+        {
+            "id": 274201,
+            "name": "Кофе Nescafe Gold растворимый сублимированный, 400 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/7/6/7613036716741_40.jpg",
+            "price": 24390,
+            "categoryId": 6,
+            "views": 5910,
+            "sold": 599
+        },
+        {
+            "id": 510364,
+            "name": "Кофе растворимый Egoiste Special в банке, 100 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/7/6/7610121710516.jpg",
+            "price": 22990,
+            "categoryId": 6,
+            "views": 673,
+            "sold": 446
+        },
+        {
+            "id": 517877,
+            "name": "Кофе растворимый Egoiste X.O., 100 г",
+            "image": "https://img.auchan.ua/rx/q_90,w_192,ofmt_webp/auchan.ua/media/catalog/product/cache/06e22f492b2a163833afee5498a82bfa/7/6/7610121710707_2.jpg",
+            "price": 22990,
+            "categoryId": 6,
+            "views": 5665,
+            "sold": 404
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Бакалея"
+        },
+        {
+            "id": 2,
+            "name": "Сладости"
+        },
+        {
+            "id": 3,
+            "name": "Молочные продукты"
+        },
+        {
+            "id": 4,
+            "name": "Вода и напитки"
+        },
+        {
+            "id": 5,
+            "name": "Овощи и фрукты"
+        },
+        {
+            "id": 6,
+            "name": "Горячие напитки"
+        }
+    ]
+}

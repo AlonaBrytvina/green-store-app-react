@@ -1,0 +1,15 @@
+$color_white: #FFFFFF;
+$color_green: #43A047;
+$color_dark: #455A64;
+
+@mixin font($fs, $fw) {
+  font-size: $fs;
+  font-weight: $fw;
+}
+
+
+@mixin flex($dis, $jst,$al) {
+  display: $dis;
+  justify-content: $jst;
+  align-items: $al;
+}

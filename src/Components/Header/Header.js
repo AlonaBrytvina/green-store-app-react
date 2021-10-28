@@ -1,27 +1,25 @@
 import './Header.scss'
 import React from 'react'
-import menu from '../../assets/menu.svg'
-import basket from '../../assets/basket.svg'
+import menu from '../../assets/svg/menu.svg'
+import basket from '../../assets/svg/basket.svg'
 
 
-class Header extends React.Component{
-
-    render() {
-        return(
-            <div className='wrapper-header'>
-                <div className='wrapper-header__menu'>
-                    <img src={menu} alt='menu'/>
-                </div>
-                <div className='wrapper-header__name'>
-                    GreenStore
-                </div>
-                <div className='wrapper-header__basket'>
-                    <img src={basket} alt='basket'/>
-                </div>
+function Header() {
+    return (
+        <div className='wrapper-header'>
+            <div className='wrapper-header__menu'>
+                <img src={menu} alt='menu'/>
             </div>
-        )
-    }
+            <div className='wrapper-header__name'>
+                GreenStore
+            </div>
+            <div className='wrapper-header__basket'>
+                <img src={basket} alt='basket'/>
+            </div>
+        </div>
+    )
 }
 
 
-export default Header
+export default Header;
+
