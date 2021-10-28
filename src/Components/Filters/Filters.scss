@@ -1,0 +1,57 @@
+$color_1: #FFFFFF;
+$color_2: #43A047;
+
+@mixin font($fs, $fw) {
+  font-size: $fs;
+  font-weight: $fw;
+}
+
+
+@mixin flex($dis, $jst,$al) {
+  display: $dis;
+  justify-content: $jst;
+  align-items: $al;
+}
+
+
+.filters{
+  margin: 33px -10px 63px -10px;
+  flex-wrap: wrap;
+  max-width: 80%;
+  margin: 0 auto;
+  @include flex(flex, start, center);
+  &__item {
+    min-width: 200px;
+    height: 50px;
+    border: 1px solid #E5E5E5;
+    background-color: $color_1;
+    border-radius: 20px;
+    box-shadow: 0 0 50px rgba(116, 189, 119, 0.3);
+    color: #455A64;
+    margin: 0 10px 10px 10px;
+    text-align: center;
+    @include font(18px, 700);
+    @include flex(flex, center, center);
+    cursor: pointer;
+
+    &_selected {
+      min-width: 200px;
+      background-color: #455A64;
+      color: $color_1;
+
+      height: 50px;
+      border: 1px solid #E5E5E5;
+
+      border-radius: 20px;
+      box-shadow: 0 0 50px rgba(116, 189, 119, 0.3);
+
+      margin: 0 10px 10px 10px;
+      text-align: center;
+      @include font(18px, 700);
+      @include flex(flex, center, center);
+      cursor: pointer;
+    }
+  }
+
+
+}
