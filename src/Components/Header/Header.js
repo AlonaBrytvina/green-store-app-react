@@ -16,13 +16,12 @@ function Header() {
             <div className='wrapper-header__basket'>
                 <img src={basket} alt='basket'/>
                 <div className='wrapper-header__basket_circle'>
-                    <div className='wrapper-header__basket_circle-number'>{12}</div>
+                    <div className='wrapper-header__basket_circle-number'>12</div>
                 </div>
             </div>
         </div>
     )
 }
-
 
 export default Header;
 

@@ -1,6 +1,6 @@
-$color_white: #FFFFFF;
-$color_green: #43A047;
-$color_dark: #455A64;
+$color-white: #FFFFFF;
+$color-green: #43A047;
+$color-dark: #455A64;
 
 @mixin font($fs, $fw) {
   font-size: $fs;

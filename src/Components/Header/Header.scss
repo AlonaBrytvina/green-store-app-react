@@ -11,7 +11,7 @@
   }
   &__name {
     @include font(30px, 700);
-    color: $color_green;
+    color: $color-green;
   }
   &__basket {
     padding-right: 30px;
@@ -22,16 +22,12 @@
     min-height: 25px;
     border-radius: 100%;
     background-color: $color-dark;
-    color: $color_white;
+    color: $color-white;
     font-size: 12px;
     font-weight: 700;
     position: absolute;
     left: 50px;
     bottom: 5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  &__basket_circle-number {
+    @include flex(flex, center, center);
   }
 }
