@@ -1,12 +1,11 @@
 @import "src/assets/scss/variables";
 
-$filter-color: $color_white;
-$filter-selected-color: $color_dark;
+$filter-color: $color-white;
+$filter-selected-color: $color-dark;
 
 .filters{
   margin: 0 auto;
   flex-wrap: wrap;
-  max-width: 80%;
   @include flex(flex, start, center);
   &__item {
     min-width: 220px;

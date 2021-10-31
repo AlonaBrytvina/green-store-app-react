@@ -3,6 +3,7 @@ import './App.scss'
 import Header from '../Header/Header'
 import PageBody from "../PageBody/PageBody";
 import Filters from "../Filters/Filters";
+import SortOptions from '../SortOptions/SortOptions';
 
 
 function App() {
@@ -11,9 +12,11 @@ function App() {
             <Header/>
             <PageBody>
                 <Filters/>
+                <SortOptions/>
             </PageBody>
         </div>
     );
 }
 
 export default App;
+
