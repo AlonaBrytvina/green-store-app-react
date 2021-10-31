@@ -6,7 +6,6 @@ $filter-selected-color: $color_dark;
 .filters{
   margin: 0 auto;
   flex-wrap: wrap;
-  max-width: 80%;
   @include flex(flex, start, center);
   &__item {
     min-width: 220px;
